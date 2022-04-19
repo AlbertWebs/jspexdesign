@@ -10,19 +10,19 @@
 
 
       <li class="navigation__item">
-        <a class="navigation__link animsition-link" href="projects-grid-dark.html">Interior Design</a>
+        <a class="navigation__link animsition-link" href="{{url('/')}}/interior-design">Interior Design</a>
       </li>
 
       <li class="navigation__item">
-        <a class="navigation__link animsition-link" href="projects-grid-dark.html">Set Design</a>
+        <a class="navigation__link animsition-link" href="{{url('/')}}/set-design">Set Design</a>
       </li>
 
       <li class="navigation__item">
-        <a class="navigation__link animsition-link" href="projects-grid-dark.html">Landscaping</a>
+        <a class="navigation__link animsition-link" href="{{url('/')}}/landscaping">Landscaping</a>
       </li>
 
       <li class="navigation__item">
-        <a class="navigation__link animsition-link" href="projects-grid-dark.html">Furniture Design</a>
+        <a class="navigation__link animsition-link" href="{{url('/')}}/furniture-design">Furniture Design</a>
       </li>
 
       <li class="navigation__item">

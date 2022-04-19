@@ -18,8 +18,10 @@ use App\Http\Controllers\AdminsController;
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('index');
 Route::get('/contact-us',[App\Http\Controllers\HomeController::class, 'contact'])->name('contact');
 Route::get('/about-us',[App\Http\Controllers\HomeController::class, 'about'])->name('about');
-Route::get('/our-portfolio',[App\Http\Controllers\HomeController::class, 'portfolio'])->name('portfolio');
-Route::get('/our-portfolio/{id}',[App\Http\Controllers\HomeController::class, 'folio'])->name('folio');
+Route::get('/interior-design',[App\Http\Controllers\HomeController::class, 'interior_design'])->name('interior-design');
+Route::get('/set-design',[App\Http\Controllers\HomeController::class, 'set_design'])->name('set-design');
+Route::get('/landscaping',[App\Http\Controllers\HomeController::class, 'landscaping'])->name('landscaping');
+Route::get('/furniture-design',[App\Http\Controllers\HomeController::class, 'furniture_design'])->name('furniture-design');
 Route::get('/latest-news',[App\Http\Controllers\HomeController::class, 'news'])->name('latest-news');
 Route::get('/latest-news/{id}',[App\Http\Controllers\HomeController::class, 'new_single'])->name('latest-news-single');
 
@@ -33,3 +35,4 @@ Route::get('/clear-cache', function() {
     $exitCode2 = Artisan::call('config:clear');
     echo "Done";
 });
+

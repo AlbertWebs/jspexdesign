@@ -51,6 +51,91 @@ class HomeController extends Controller
         return view('front.about');
     }
 
+    public function landscaping(){
+        $Title = "Landscaping";
+        SEOMeta::setTitle('Landscaping | JSpex Design');
+        SEOMeta::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        SEOMeta::setCanonical(''.url('/').'');
+
+        OpenGraph::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        OpenGraph::setTitle('Landscaping | JSpex Design');
+        OpenGraph::setUrl(''.url('/').'');
+        OpenGraph::addProperty('type', 'articles');
+
+        TwitterCard::setTitle('Landscaping | JSpex Design');
+        TwitterCard::setSite('@jspexdesign');
+
+        JsonLd::setTitle('Landscaping | JSpex Design');
+        JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        JsonLd::addImage('https://localhost:8000/img/logo.jpg');
+
+        return view('front.services', compact('Title'));
+    }
+
+    public function interior_design(){
+        $Title = "Interior Design";
+        SEOMeta::setTitle('Interior Design | JSpex Design');
+        SEOMeta::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        SEOMeta::setCanonical(''.url('/').'');
+
+        OpenGraph::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        OpenGraph::setTitle('Interior Design | JSpex Design');
+        OpenGraph::setUrl(''.url('/').'');
+        OpenGraph::addProperty('type', 'articles');
+
+        TwitterCard::setTitle('Interior Design | JSpex Design');
+        TwitterCard::setSite('@jspexdesign');
+
+        JsonLd::setTitle('Interior Design | JSpex Design');
+        JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        JsonLd::addImage('https://localhost:8000/img/logo.jpg');
+
+        return view('front.services', compact('Title'));
+    }
+
+    public function set_design(){
+        $Title = "Set Design";
+        SEOMeta::setTitle('Set Design | JSpex Design');
+        SEOMeta::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        SEOMeta::setCanonical(''.url('/').'');
+
+        OpenGraph::setDescription('Set Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        OpenGraph::setTitle('Interior Design | JSpex Design');
+        OpenGraph::setUrl(''.url('/').'');
+        OpenGraph::addProperty('type', 'articles');
+
+        TwitterCard::setTitle('Set Design | JSpex Design');
+        TwitterCard::setSite('@jspexdesign');
+
+        JsonLd::setTitle('Set Design | JSpex Design');
+        JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        JsonLd::addImage('https://localhost:8000/img/logo.jpg');
+
+        return view('front.services', compact('Title'));
+    }
+
+    public function furniture_design(){
+        $Title = "Furniture Design";
+        SEOMeta::setTitle('Furniture Design | JSpex Design');
+        SEOMeta::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        SEOMeta::setCanonical(''.url('/').'');
+
+        OpenGraph::setDescription('Furniture Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        OpenGraph::setTitle('Interior Design | JSpex Design');
+        OpenGraph::setUrl(''.url('/').'');
+        OpenGraph::addProperty('type', 'articles');
+
+        TwitterCard::setTitle('Furniture Design | JSpex Design');
+        TwitterCard::setSite('@jspexdesign');
+
+        JsonLd::setTitle('Furniture Design | JSpex Design');
+        JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
+        JsonLd::addImage('https://localhost:8000/img/logo.jpg');
+
+        return view('front.services', compact('Title'));
+    }
+
+
     public function contact(){
         SEOMeta::setTitle('Contact Us | JSpex Design');
         SEOMeta::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
