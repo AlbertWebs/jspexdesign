@@ -1,4 +1,4 @@
-<nav class="mobile-canvas__nav navigation" style="margin:0 auto !important">
+<nav class="mobile-canvas__nav navigation center-menu" >
     <ul class="navigation__list">
       <li class="navigation__item navigation__item--current">
         <a class="navigation__link" href="{{url('/')}}">Home</a>

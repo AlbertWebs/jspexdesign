@@ -8907,3 +8907,13 @@ textarea.custom-input {
 .fix-overlay .card__tag{
   color:#000000 !important;
 }
+.center-menu{
+    margin:0 auto !important;
+}
+
+@media (max-width: 692px) {
+    .center-menu{
+        margin:0 !important;
+    }
+}
+
