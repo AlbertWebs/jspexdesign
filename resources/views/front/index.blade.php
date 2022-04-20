@@ -41,18 +41,18 @@
           <div class="row no-gutters">
               <div class="about-section__content col-12 col-md-7">
               <h2 class="about-section__heading heading-small" data-aos="fade">About us</h2>
-              <div class="about-section__pseudoheading heading" data-aos="fade">Strategy-led <span class="color-yellow">design</span> in every detail</div>
-              <div class="about-section__text" data-aos="fade">Founded in 218, Sparch is specializing in providing innovative services such as website design, brand identity and marketing</div>
-              <a class="about-section__btn btn" href="about.html" data-aos="fade">Learn more</a>
+              <div class="about-section__pseudoheading heading" data-aos="fade">Tailor-made <span class="color-yellow">flexible</span> Designs</div>
+              <div class="about-section__text" data-aos="fade">Jspex design is a creative studio dedicated to 3D space design consulting, planning and implementation provider based in Nairobi and operating within Kenya. <br> <br> Our flexible and self-motivated specialist teams passionately will build processes tailor-made to your project’s needs.</div>
+              <a class="about-section__btn btn" href="{{url('/')}}/about-us" data-aos="fade">Learn more</a>
               </div>
               <div class="col-12 col-md-5" data-aos="fade">
               <div class="about-section__image">
                   <img src="{{asset('theme/img/picture/about-section-image.jpg')}}" srcset="{{asset('theme/img/picture/about-section-image@2x.jpg 2x')}}" width="426" height="573" alt="House">
               </div>
               <div class="about-section__cite-wrapper">
-                  <blockquote class="about-section__blockquote">“If you will be coping someone, you will never be the best”</blockquote>
-                  <cite class="about-section__cite">Paul.
-                  <br>Designer
+                  <blockquote class="about-section__blockquote">“We specialize in space 3D renders, plans, and execution services”</blockquote>
+                  <cite class="about-section__cite">JSpex.
+                  <br>Design
                   </cite>
               </div>
               </div>
@@ -121,7 +121,7 @@
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="1">
                   <div class="preview-card">
                      <div class="preview-card__image">
-                        <img src="uploads/interiors/photo_2021-01-15_07-00-44.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-44.jpg 2x')}}" width="428" height="428" alt="">
+                        <img src="{{asset('theme/uploads/interiors/photo_2021-01-15_07-00-44.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-44.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
                         <h3 class="preview-card__heading">Interior in Spain</h3>
@@ -138,7 +138,7 @@
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="2">
                   <div class="preview-card">
                      <div class="preview-card__image">
-                        <img src="uploads/interiors/photo_2021-01-15_07-00-37.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-37.jpg 2x')}}" width="428" height="428" alt="">
+                        <img src="{{asset('theme/uploads/interiors/photo_2021-01-15_07-00-37.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-37.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
                         <h3 class="preview-card__heading">Interior in Spain</h3>
@@ -155,7 +155,7 @@
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="3">
                   <div class="preview-card">
                      <div class="preview-card__image">
-                        <img src="uploads/interiors/photo_2021-03-28_11-34-16.jpg')}}" srcset="uploads/interiors/photo_2021-03-28_11-34-16.jpg 2x')}}" width="428" height="428" alt="">
+                        <img src="{{asset('theme/uploads/interiors/photo_2021-03-28_11-34-16.jpg')}}" srcset="uploads/interiors/photo_2021-03-28_11-34-16.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
                         <h3 class="preview-card__heading">Interior in Spain</h3>
@@ -174,7 +174,7 @@
                <div class="projects-masonry__item __js_masonry-item  col-12  col-lg-6" data-order="4">
                   <div class="preview-card">
                      <div class="preview-card__image">
-                        <img src="uploads/landscaping/photo_2022-04-18_19-45-40.jpg')}}" srcset="uploads/landscaping/photo_2022-04-18_19-45-40.jpg 2x')}}" width="886" height="428" alt="">
+                        <img src="{{asset('theme/uploads/interiors/photo_2022-04-18_19-45-40.jpg')}}" srcset="uploads/interiors/photo_2022-04-18_19-45-40.jpg 2x')}}" width="886" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
                         <h3 class="preview-card__heading">Interior in Spain</h3>
@@ -193,7 +193,7 @@
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="5">
                   <div class="preview-card">
                      <div class="preview-card__image">
-                        <img src="uploads/landscaping/photo_2022-04-18_19-30-39.jpg')}}" srcset="uploads/landscaping/photo_2022-04-18_19-30-39.jpg 2x')}}" width="428" height="886" alt="">
+                        <img src="{{asset('theme/uploads/interiors/photo_2022-04-18_19-30-39.jpg')}}" srcset="uploads/interiors/photo_2022-04-18_19-30-39.jpg 2x')}}" width="428" height="886" alt="">
                      </div>
                      <div class="preview-card__content">
                         <h3 class="preview-card__heading">Interior in Spain</h3>
@@ -228,7 +228,7 @@
                <div class="projects-masonry__item __js_masonry-item  col-12  col-lg-6" data-order="7">
                   <div class="preview-card">
                      <div class="preview-card__image">
-                        <img src="uploads/interiors/photo_2021-01-13_14-38-54.jpg')}}" srcset="uploads/interiors/photo_2021-01-13_14-38-54.jpg 2x')}}" width="886" height="428" alt="">
+                        <img src="{{asset('theme/uploads/interiors/photo_2021-01-13_14-38-54.jpg')}}" srcset="uploads/interiors/photo_2021-01-13_14-38-54.jpg 2x')}}" width="886" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
                         <h3 class="preview-card__heading">Interior in Spain</h3>

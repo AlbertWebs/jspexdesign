@@ -1,6 +1,10 @@
 <nav class="mobile-canvas__nav navigation center-menu" >
     <ul class="navigation__list">
 
+       <li class="navigation__item">
+            <a class="navigation__link animsition-link" href="{{url('/')}}">Home</a>
+       </li>
+
       <li class="navigation__item">
         <a class="navigation__link animsition-link" href="{{url('/')}}/about-us">About Us</a>
       </li>
@@ -18,9 +22,7 @@
         <a class="navigation__link animsition-link" href="{{url('/')}}/landscaping">Landscaping</a>
       </li>
 
-      <li class="navigation__item">
-        <a class="navigation__link animsition-link" href="{{url('/')}}/furniture-design">Furniture Design</a>
-      </li>
+
 
       <li class="navigation__item">
         <a class="navigation__link animsition-link" href="{{url('/')}}/contact-us">Contact</a>

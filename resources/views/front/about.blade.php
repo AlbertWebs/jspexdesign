@@ -19,8 +19,14 @@
           </header>
           <div class="about-block__main">
             <div class="about-block__text" data-aos="fade">
-              <p>Totally focused on tools to enhance and help your content shine. We have created this theme thinking only in options helpfully for the daily needs in a creative environment like an agency, a small studio.</p>
-              <p>As a result working with hundred of creatives all these past years, we are now delivering a theme that will be part of your toolset.</p>
+              <p>
+                Jspex design is a creative studio dedicated to 3D space design consulting, planning and implementation provider based in Nairobi and operating within Kenya. <br> <br>
+
+                Our flexible and self-motivated specialist teams passionately will build processes tailor-made to your project’s needs. <br> <br>
+
+                We specialize in space 3D renders, plans, and execution services. Our all-rounded 3D renders are key to us because we believe in the importance of being able to visualize your desired end result before execution to save on cost and on time. <br> <br>
+              </p>
+
             </div>
 
           </div>

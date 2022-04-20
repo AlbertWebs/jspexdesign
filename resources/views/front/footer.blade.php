@@ -9,7 +9,7 @@
         </div>
         <!-- Copyrights-->
         <div class="footer__column col-12 col-lg order-2 order-lg-0">
-          <div class="footer__copyright">© JSpex Designs. 2020
+          <div class="footer__copyright">© JSpex Designs. <?php echo date('Y'); ?>
             <br> All Rights Resevered
           </div>
           <!-- Footer menu-->
@@ -18,10 +18,10 @@
           <ul class="footer__column-menu">
 
             <li class="footer__column-item">
-              <a class="footer__column-link animsition-link" href="#">Terms &amp; Conditions</a>
+              <a class="footer__column-link animsition-link" href="{{url('/')}}/terms-and-conditions">Terms &amp; Conditions</a>
             </li>
             <li class="footer__column-item">
-              <a class="footer__column-link animsition-link" href="#">Privacy Policy</a>
+              <a class="footer__column-link animsition-link" href="{{url('/')}}/privacy-policy">Privacy Policy</a>
             </li>
 
 
@@ -31,10 +31,10 @@
         <div class="footer__column col-6 col-sm">
           <ul class="footer__column-menu">
             <li class="footer__column-item">
-              <a class="footer__column-link animsition-link" href="#">Our Location</a>
+              <a class="footer__column-link animsition-link" href="{{url('/')}}/interior-design">Interior Design</a>
             </li>
             <li class="footer__column-item">
-              <a class="footer__column-link animsition-link" href="#">Services</a>
+              <a class="footer__column-link animsition-link" href="{{url('/')}}/set-design">Set Design</a>
             </li>
 
 
@@ -43,10 +43,10 @@
         <div class="footer__column col-12 col-lg-1 order-md-1 order-lg-0">
           <ul class="footer__lang-switcher lang-switcher lang-switcher--footer">
               <li class="footer__column-item">
-                  <a class="footer__column-link animsition-link" href="about.html">About</a>
+                  <a class="footer__column-link animsition-link" href="{{url('/')}}/about-us">About</a>
                 </li>
             <li class="footer__column-item">
-              <a class="footer__column-link animsition-link" href="about.html">Help</a>
+              <a class="footer__column-link animsition-link" href="{{url('/')}}/landscaping">Landscaping</a>
             </li>
 
           </ul>
