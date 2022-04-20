@@ -116,9 +116,9 @@
                         <img src="{{asset('theme/uploads/interiors/photo_2021-01-15_07-00-44.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-44.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Interior Design</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/interior-design">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -133,9 +133,9 @@
                         <img src="{{asset('theme/uploads/interiors/photo_2021-01-15_07-00-37.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-37.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Interior Design</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/interior-design">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -150,9 +150,9 @@
                         <img src="{{asset('theme/uploads/interiors/photo_2021-03-28_11-34-16.jpg')}}" srcset="uploads/interiors/photo_2021-03-28_11-34-16.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Interior Design</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/interior-design">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -169,9 +169,9 @@
                         <img src="{{asset('theme/uploads/interiors/photo_2022-04-18_19-45-40.jpg')}}" srcset="uploads/interiors/photo_2022-04-18_19-45-40.jpg 2x')}}" width="886" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Landscaping</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/landscaping">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -188,9 +188,9 @@
                         <img src="{{asset('theme/uploads/interiors/photo_2022-04-18_19-30-39.jpg')}}" srcset="uploads/interiors/photo_2022-04-18_19-30-39.jpg 2x')}}" width="428" height="886" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Landscaping</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/landscaping">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -206,9 +206,9 @@
                         <img src="{{asset('theme/img/picture/home-video/6.jpg')}}" srcset="{{asset('theme/img/picture/home-video/6@2x.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Interior Design</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/interior-design">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -223,9 +223,9 @@
                         <img src="{{asset('theme/uploads/interiors/photo_2021-01-13_14-38-54.jpg')}}" srcset="uploads/interiors/photo_2021-01-13_14-38-54.jpg 2x')}}" width="886" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Interior Design</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/interior-design">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -240,9 +240,9 @@
                         <img src="{{asset('theme/img/picture/home-video/7.jpg')}}" srcset="{{asset('theme/img/picture/home-video/7@2x.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Interior Design</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/interior-design">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
@@ -257,9 +257,9 @@
                         <img src="{{asset('theme/img/picture/home-video/8.jpg')}}" srcset="{{asset('theme/img/picture/home-video/8@2x.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
-                        <h3 class="preview-card__heading">Interior in Spain</h3>
-                        <div class="preview-card__text">Projects for many large domestic and foreign corporations, enterprises in many elds such</div>
-                        <a class="preview-card__btn link-arrow" href="single-post-dark.html">
+                        <h3 class="preview-card__heading">Interior Design</h3>
+                        <div class="preview-card__text"></div>
+                        <a class="preview-card__btn link-arrow" href="{{url('/')}}/interior-design">
                            Learn more
                            <svg width="20" height="20">
                               <use xlink:href="#chevron-right"></use>
