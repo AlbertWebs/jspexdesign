@@ -8911,9 +8911,23 @@ textarea.custom-input {
     margin:0 auto !important;
 }
 
+.height-428 img{
+   height:428px !important;
+}
+.height-886 img{
+    height:886px !important;
+}
+
 @media (max-width: 692px) {
     .center-menu{
         margin:0 !important;
     }
+
+    .height-428 img{
+        height:428px !important;
+     }
+     .height-886 img{
+         height:886px !important;
+     }
 }
 

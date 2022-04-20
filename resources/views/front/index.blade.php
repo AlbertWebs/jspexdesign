@@ -74,8 +74,8 @@
                 </svg>
               </div>
               <h3 class="services-provided__column-heading">Interior Design</h3>
-              <div class="services-provided__column-text">Founded in 2007, Sparch is specializing in providing innovative services such as websitFounded in 2007, Sparch is specializing in providing innovative services such as website design, brand identity and marketinge design, brand identity and marketing</div>
-              <a class="services-provided__link" href="single-services.html">Read more
+              <div class="services-provided__column-text">Our interior design team specializes in providing superb and outstanding interior design services.  These includes:- space planning, designing and project management for both residential and elegant commercial projects in Kenya.</div>
+              <a class="services-provided__link" href="{{url('/')}}/interior-design">Read more
                 <svg width="20" height="20">
                   <use xlink:href="#roller"></use>
                 </svg>
@@ -88,7 +88,7 @@
                 </svg>
               </div>
               <h3 class="services-provided__column-heading">Landscaping</h3>
-              <div class="services-provided__column-text">Founded in 2007, Sparch is specializing in providing innovative services such as websitFounded in 2007, Sparch is specializing in providing innovative services such as website design, brand identity and marketinge design, brand identity and marketing</div>
+              <div class="services-provided__column-text">Our landscaping design team offer professional and quality hard and soft landscape services for both residential and commercial spaces.</div>
             </div>
             <div class="services-provided__column col-12 col-md" data-aos="fade" data-aos-delay="400">
               <div class="services-provided__icon">
@@ -97,17 +97,9 @@
                 </svg>
               </div>
               <h3 class="services-provided__column-heading">Set Design</h3>
-              <div class="services-provided__column-text">Founded in 2007, Sparch is specializing in providing innovative services such as websitFounded in 2007, Sparch is specializing in providing innovative services such as website design, brand identity and marketinge design, brand identity and marketing</div>
+              <div class="services-provided__column-text">Our set design team specializes in providing stage design for corporate events and exhibition booths for exhibition spaces. We work hard to ensure that your set is memorable to your guests as much as possible.</div>
             </div>
-            <div class="services-provided__column col-12 col-md" data-aos="fade" data-aos-delay="400">
-              <div class="services-provided__icon">
-                <svg width="58" height="52">
-                  <use xlink:href="#roller"></use>
-                </svg>
-              </div>
-              <h3 class="services-provided__column-heading">Furniture Design</h3>
-              <div class="services-provided__column-text">Founded in 2007, Sparch is specializing in providing innovative services such as websitFounded in 2007, Sparch is specializing in providing innovative services such as website design, brand identity and marketinge design, brand identity and marketing</div>
-            </div>
+
           </div>
         </div>
       </div>
@@ -120,7 +112,7 @@
             <div class="row __js_projects-grid">
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="1">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/uploads/interiors/photo_2021-01-15_07-00-44.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-44.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -137,7 +129,7 @@
                </div>
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="2">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/uploads/interiors/photo_2021-01-15_07-00-37.jpg')}}" srcset="uploads/interiors/photo_2021-01-15_07-00-37.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -154,7 +146,7 @@
                </div>
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="3">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/uploads/interiors/photo_2021-03-28_11-34-16.jpg')}}" srcset="uploads/interiors/photo_2021-03-28_11-34-16.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -173,7 +165,7 @@
                <!-- Flat Landscaping -->
                <div class="projects-masonry__item __js_masonry-item  col-12  col-lg-6" data-order="4">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/uploads/interiors/photo_2022-04-18_19-45-40.jpg')}}" srcset="uploads/interiors/photo_2022-04-18_19-45-40.jpg 2x')}}" width="886" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -192,7 +184,7 @@
                <!-- Long -->
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="5">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image 886">
                         <img src="{{asset('theme/uploads/interiors/photo_2022-04-18_19-30-39.jpg')}}" srcset="uploads/interiors/photo_2022-04-18_19-30-39.jpg 2x')}}" width="428" height="886" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -210,7 +202,7 @@
 
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="6">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/img/picture/home-video/6.jpg')}}" srcset="{{asset('theme/img/picture/home-video/6@2x.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -227,7 +219,7 @@
                </div>
                <div class="projects-masonry__item __js_masonry-item  col-12  col-lg-6" data-order="7">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/uploads/interiors/photo_2021-01-13_14-38-54.jpg')}}" srcset="uploads/interiors/photo_2021-01-13_14-38-54.jpg 2x')}}" width="886" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -244,7 +236,7 @@
                </div>
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="8">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/img/picture/home-video/7.jpg')}}" srcset="{{asset('theme/img/picture/home-video/7@2x.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">
@@ -261,7 +253,7 @@
                </div>
                <div class="projects-masonry__item __js_masonry-item  col-12 col-md-6 col-lg-4 col-xl-3" data-order="9">
                   <div class="preview-card">
-                     <div class="preview-card__image">
+                     <div class="preview-card__image height-428">
                         <img src="{{asset('theme/img/picture/home-video/8.jpg')}}" srcset="{{asset('theme/img/picture/home-video/8@2x.jpg 2x')}}" width="428" height="428" alt="">
                      </div>
                      <div class="preview-card__content">

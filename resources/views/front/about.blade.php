@@ -10,7 +10,7 @@
         </div>
       </header>
       <div class="article__about-hero container">
-        <img src="{{asset('theme/uploads/landscaping/photo_2022-04-18_19-45-40.jpg')}}" width="1800" height="668" alt="Jspex Landscapping">
+        <img src="{{asset('theme/uploads/interiors/photo_2022-04-18_19-45-40.jpg')}}" width="1800" height="668" alt="Jspex Landscapping">
       </div>
       <section class="webpage__about-block about-block about-block--columns">
         <div class="about-block__inner container">
