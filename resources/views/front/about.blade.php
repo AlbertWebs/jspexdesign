@@ -35,7 +35,7 @@
 
 
 
-      <div class="partners">
+      {{-- <div class="partners">
         <div class="partners__inner container">
           <ul class="partners__list">
             <li class="partners__item" data-aos="fade" data-aos-delay="0">
@@ -52,7 +52,7 @@
             </li>
           </ul>
         </div>
-      </div>
+      </div> --}}
     </article>
   </main>
 @endsection

@@ -276,7 +276,7 @@
 
     <!--  -->
     <!-- Partners-->
-    <section class="webpage__partners partners">
+    {{-- <section class="webpage__partners partners">
       <div class="partners__inner container">
         <ul class="partners__list">
           <li class="partners__item" data-aos="fade" data-aos-delay="0">
@@ -293,6 +293,6 @@
           </li>
         </ul>
       </div>
-    </section>
+    </section> --}}
   </main>
 @endsection
