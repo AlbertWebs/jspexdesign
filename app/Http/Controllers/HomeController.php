@@ -69,7 +69,9 @@ class HomeController extends Controller
         JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
         JsonLd::addImage('https://localhost:8000/img/logo.jpg');
 
-        return view('front.services', compact('Title'));
+        $description = "Our landscaping design team offer professional and quality hard and soft landscape services for both residential and commercial spaces.";
+
+        return view('front.services', compact('Title','description'));
     }
 
     public function interior_design(){
@@ -90,7 +92,9 @@ class HomeController extends Controller
         JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
         JsonLd::addImage('https://localhost:8000/img/logo.jpg');
 
-        return view('front.services', compact('Title'));
+        $description = "Our interior design team specializes in providing superb and outstanding interior design services. <br><br> These includes:- space planning, designing and project management for both residential and elegant commercial projects in Kenya.";
+
+        return view('front.services', compact('Title','description'));
     }
 
     public function set_design(){
@@ -111,7 +115,9 @@ class HomeController extends Controller
         JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
         JsonLd::addImage('https://localhost:8000/img/logo.jpg');
 
-        return view('front.services', compact('Title'));
+        $description = "Our set design team specializes in providing stage design for corporate events and exhibition booths for exhibition spaces. We work hard to ensure that your set is memorable to your guests as much as possible.";
+
+        return view('front.services', compact('Title','description'));
     }
 
     public function furniture_design(){
@@ -131,6 +137,8 @@ class HomeController extends Controller
         JsonLd::setTitle('Furniture Design | JSpex Design');
         JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
         JsonLd::addImage('https://localhost:8000/img/logo.jpg');
+
+        $description = "";
 
         return view('front.services', compact('Title'));
     }
