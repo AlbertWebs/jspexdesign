@@ -6,7 +6,7 @@
         <source src="{{asset('theme/video/video.mp4')}}" type="video/mp4">
       </video>
       <a class="video-section__logo logo--large logo--white logo">
-        <span class="logo__large">JSpex Designs</span>
+        <span class="logo__large">JSpex Design</span>
         <span class="logo__small" style="text-align:center"><strong>Events • Funiture • Interiors • Landscaping</strong></span>
       </a>
       {{-- <div class="video-section__bottom">
