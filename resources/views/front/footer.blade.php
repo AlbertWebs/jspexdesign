@@ -3,8 +3,7 @@
       <div class="row">
         <div class="footer__column col-12 col-sm">
           <a class="footer__logo logo--borderless logo">
-            <span class="logo__large">JSpex Designs</span>
-            <span class="logo__small">Design Studio</span>
+            <img width="200" src="{{url('/')}}/theme/img/jspexdesignHorizontal-color.png">
           </a>
         </div>
         <!-- Copyrights-->
