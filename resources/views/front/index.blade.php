@@ -36,7 +36,7 @@
   <main>
     <!--  -->
     <section class="webpage__about-section about-section" style="padding-top:100px">
-      <div class="about-block__inner container" data-number=".1"></div>
+      <div class="about-block__inner container" data-number="."></div>
           <div class="about-section__inner container">
           <div class="row no-gutters">
               <div class="about-section__content col-12 col-md-7">
@@ -61,7 +61,7 @@
     </section>
     <!--  -->
     <section class="webpage__about-block about-block">
-      <div class="about-block__inner container" data-number=".2">
+      <div class="about-block__inner container" data-number=".">
         <header class="about-block__header" data-aos="fade">
           <h2 class="about-block__heading heading">Services</h2>
         </header>
