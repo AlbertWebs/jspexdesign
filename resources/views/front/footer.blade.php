@@ -3,7 +3,7 @@
       <div class="row">
         <div class="footer__column col-12 col-sm">
           <a class="footer__logo logo--borderless logo">
-            <img width="200" src="{{url('/')}}/theme/img/jspexdesignHorizontal-color.png">
+            <img width="200" src="{{url('/')}}/theme/img/jspexdesignHorizontal-color.png" alt="Jspex Design">
           </a>
         </div>
         <!-- Copyrights-->
