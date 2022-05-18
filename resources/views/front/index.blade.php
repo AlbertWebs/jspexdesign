@@ -43,7 +43,7 @@
               <div class="about-section__content col-12 col-md-7">
               <h2 class="about-section__heading heading-small" data-aos="fade">About us</h2>
               <div class="about-section__pseudoheading heading" data-aos="fade">Tailor-made <span class="color-yellow">flexible</span> Designs</div>
-              <div class="about-section__text" data-aos="fade">Jspex design is a creative studio dedicated to 3D space design consulting, planning and implementation provider based in Nairobi and operating within Kenya. <br> <br> Our flexible and self-motivated specialist teams passionately will build processes tailor-made to your project’s needs.</div>
+              <div class="about-section__text" data-aos="fade">Jspex design is a creative studio dedicated to 3D space design consulting, planning and implementation provider based in Nairobi and operating within Kenya. <br> <br> Our flexible and self-motivated specialist teams passionately will build processes tailor-made to your project’s needs. <br><br>We specialize in space 3D renders, plans, and execution services. Our all-rounded 3D renders are key to us because we believe in the importance of being able to visualize your desired end result before execution to save on cost and on time.</div>
               <a class="about-section__btn btn" href="{{url('/')}}/about-us" data-aos="fade">Learn more</a>
               </div>
               <div class="col-12 col-md-5" data-aos="fade">
