@@ -1,7 +1,7 @@
 <div class="mobile-canvas__bottom">
     <a class="mobile-canvas__phone" href="tel:+254 706 291 636">+254 706 291 636</a>
     <div class="mobile-canvas__copy">
-      © 2022 <span>JSpex Designs.</span> All Rights Reserved.
+      © {{date('Y')}} <span>JSpex Design.</span> All Rights Reserved.
       <br>Powered by <span>Designekta Studios</span>
     </div>
     <!-- Social-->
