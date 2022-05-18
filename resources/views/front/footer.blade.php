@@ -8,7 +8,7 @@
         </div>
         <!-- Copyrights-->
         <div class="footer__column col-12 col-lg order-2 order-lg-0">
-          <div class="footer__copyright">© JSpex Designs. <?php echo date('Y'); ?>
+          <div class="footer__copyright">© JSpex Design. <?php echo date('Y'); ?>
             <br> All Rights Resevered
           </div>
           <!-- Footer menu-->

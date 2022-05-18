@@ -35,8 +35,8 @@
   </div>
   <main>
     <!--  -->
-    <section class="webpage__about-section about-section" style="padding-top:100px">
-      <div class="about-block__inner container" data-number="."></div>
+    <section class="webpage__about-section about-section about-jspex">
+      <div class="about-block__inner container" data-number=""></div>
           <div class="about-section__inner container">
           <div class="row no-gutters">
               <div class="about-section__content col-12 col-md-7">
@@ -61,9 +61,9 @@
     </section>
     <!--  -->
     <section class="webpage__about-block about-block">
-      <div class="about-block__inner container" data-number=".">
+      <div class="about-block__inner container" data-number="">
         <header class="about-block__header" data-aos="fade">
-          <h2 class="about-block__heading heading">Services</h2>
+          <h2 class="about-block__heading heading theme-color">Services</h2>
         </header>
         <div class="about-block__main services-provided">
           <div class="row">
