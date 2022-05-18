@@ -60,6 +60,7 @@
           </div>
           </div>
     </section>
+    <h1 style="display: none">Interior Design • Landscaping • Furniture Design •  Set Design | JSpex Design</h1>
     <!--  -->
     <section class="webpage__about-block about-block">
       <div class="about-block__inner container" data-number="">
