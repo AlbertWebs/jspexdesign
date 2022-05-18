@@ -12,19 +12,19 @@ use DB;
 class HomeController extends Controller
 {
     public function index(){
-        SEOMeta::setTitle('Interior Design • Landscaping • Furniture Design •  Set Design | JSpex Design');
+        SEOMeta::setTitle('Interior Design  | Landscaping |  Set Design | JSpex Design');
         SEOMeta::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
         SEOMeta::setCanonical(''.url('/').'');
 
         OpenGraph::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
-        OpenGraph::setTitle('Interior Design • Landscaping • Furniture Design •  Set Design | JSpex Design');
+        OpenGraph::setTitle('Interior Design  | Landscaping |  Set Design | JSpex Design');
         OpenGraph::setUrl(''.url('/').'');
         OpenGraph::addProperty('type', 'articles');
 
-        TwitterCard::setTitle('Interior Design • Landscaping • Furniture Design •  Set Design | JSpex Design');
+        TwitterCard::setTitle('Interior Design  | Landscaping |  Set Design | JSpex Design');
         TwitterCard::setSite('@jspexdesign');
 
-        JsonLd::setTitle('Interior Design • Landscaping • Furniture Design •  Set Design | JSpex Design');
+        JsonLd::setTitle('Interior Design  | Landscaping |  Set Design | JSpex Design');
         JsonLd::setDescription('Interior Design • Landscaping • Furniture Design •  Set Design Hub. To speak for your unbuilt project');
         JsonLd::addImage('https://localhost:8000/img/logo.jpg');
 
