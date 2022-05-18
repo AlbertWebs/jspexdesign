@@ -34,6 +34,7 @@
     @include('front.footnote')
   </div>
   <main>
+
     <!--  -->
     <section class="webpage__about-section about-section about-jspex">
       <div class="about-block__inner container" data-number=""></div>

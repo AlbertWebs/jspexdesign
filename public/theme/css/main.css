@@ -8923,6 +8923,9 @@ textarea.custom-input {
 .theme-color{
     color:#EA6C26 !important;
 }
+.logo img{
+   width:200px;
+}
 
 @media (max-width: 692px) {
     .center-menu{
@@ -8935,9 +8938,14 @@ textarea.custom-input {
      .height-886 img{
          height:886px !important;
      }
-
      .about-jspex{
         padding-top:0px
     }
+    .about-block__inner {
+        padding-top:0px;
+    }
+    .logo img{
+        width:150px;
+     }
 }
 

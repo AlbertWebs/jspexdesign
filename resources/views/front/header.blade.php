@@ -2,7 +2,7 @@
     <div class="header__inner">
       <!-- Logo-->
       <a class="header__logo logo">
-        <img width="200" src="{{url('/')}}/theme/img/jspexdesignHor-alt-11-long-white.png">
+        <img src="{{url('/')}}/theme/img/jspexdesignHor-alt-11-long-white.png">
       </a>
       <div class="container"></div>
       <a class="header__phone" href="tel:+254706291636"><span class="fa fa-phone"></span> +254 706 291 636</a>
