@@ -8,7 +8,7 @@
         </div>
       </header>
       <div class="article__map map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.277519149899!2d36.8222851!3d-1.2821533!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb39310a139138d6!2sDesignekta%20Studios!5e0!3m2!1sen!2ske!4v1650365782105!5m2!1sen!2ske" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.720895806075!2d36.8712375!3d-1.2089245!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1c9fa5c975d899ed!2sjspexdesign!5e0!3m2!1sen!2ske!4v1652942647214!5m2!1sen!2ske" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         <div class="map__inner container">
           <div class="contact-block">
             <div class="contact-block__heading">JSpex Designs, <span class="color-yellow">Nairobi, Kenya</span>
