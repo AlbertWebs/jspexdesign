@@ -29,11 +29,27 @@
                 <!-- Social-->
                 <ul class="contact-block__social social--contact social">
                   <li class="social__item">
-                    <a class="social__link" href="#" target="_blank">
+                    <a class="social__link" href="https://www.facebook.com/Jspexdesign" target="_blank">
                       <svg width="20" height="20" aria-label="facebook icon">
                         <use xlink:href="#facebook"></use>
                       </svg>
                       <span class="visually-hidden">facebook</span>
+                    </a>
+                  </li>
+                  <li class="social__item">
+                    <a class="social__link" href="https://www.instagram.com/jspexdesign/" target="_blank">
+                      <svg width="20" height="20" aria-label="instagram icon">
+                        <use xlink:href="#instagram"></use>
+                      </svg>
+                      <span class="visually-hidden">Instagram</span>
+                    </a>
+                  </li>
+                  <li class="social__item">
+                    <a class="social__link" href="https://www.linkedin.com/company/jspex-design" target="_blank">
+                      <svg width="20" height="20" aria-label="#linkedin-original icon">
+                        <use xlink:href="#linkedin-original"></use>
+                      </svg>
+                      <span class="visually-hidden">linked-in</span>
                     </a>
                   </li>
                   <li class="social__item">
@@ -42,14 +58,6 @@
                         <use xlink:href="#twitter"></use>
                       </svg>
                       <span class="visually-hidden">twitter</span>
-                    </a>
-                  </li>
-                  <li class="social__item">
-                    <a class="social__link" href="#" target="_blank">
-                      <svg width="20" height="20" aria-label="pinterest icon">
-                        <use xlink:href="#pinterest"></use>
-                      </svg>
-                      <span class="visually-hidden">pinterest</span>
                     </a>
                   </li>
                 </ul>
