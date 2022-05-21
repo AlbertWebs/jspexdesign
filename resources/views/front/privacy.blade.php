@@ -8,7 +8,7 @@
       <div class="article__main article__main--width-small container">
         <div class="single-service-block">
           <h2 data-aos="fade">General Information</h2>
-          <p data-aos="fade">Jspex Design values privacy of any person or organization, business in nature or otherwise. We are therefore committed to protecting any personal information collected through the designekta.com website Designekta Studios may from time to time change this information and will inform all interested parties of the changes.</p>
+          <p data-aos="fade">Jspex Design values privacy of any person or organization, business in nature or otherwise. We are therefore committed to protecting any personal information collected through the Jespex.com.com website Jespex.com Studios may from time to time change this information and will inform all interested parties of the changes.</p>
         </div>
 
         <div class="single-service-block">
