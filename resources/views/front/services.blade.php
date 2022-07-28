@@ -1,13 +1,34 @@
 @extends('front.master-pages')
 @section('content')
 <main>
+    @if($Title=="Set Design")
+    <section class="video-section">
+        <div class="video-section__inner container">
+          <video autoplay loop muted>
+            <source src="{{asset('Decode.blend0279.png0273.png0001-0450.mp4')}}" type="video/mp4">
+          </video>
+          <a class="video-section__logo logo--large logo--white logo">
+            <span class="logo__large">{{$Title}}</span>
+
+          </a>
+          {{-- <div class="video-section__bottom">
+            <div class="video-section__copy">Copyright © <?php echo date('Y'); ?> JSpex Design - All Rights Reserved</div>
+            <ul class="video-section__lang-switcherul lang-switcher lang-switcher--line">
+              <li class="lang-switcher__item">
+                <a href="tel:+254706291636" class="lang-switcher__link lang-switcher__link" ><span class="fa fa-phone"></span>  +254 706 291 636</a>
+              </li>
+            </ul>
+          </div> --}}
+        </div>
+      </section>
+      @endif
     <article class="article">
 
 
       <section class="webpage__about-block about-block about-block--columns">
         <div class="about-block__inner container">
           <header class="about-block__header" data-aos="fade">
-            <h2 class="about-block__heading heading">{{$Title}}s</h2>
+            <h2 class="about-block__heading heading">{{$Title}}</h2>
           </header>
           <div class="about-block__main">
             <div class="about-block__text" data-aos="fade">
